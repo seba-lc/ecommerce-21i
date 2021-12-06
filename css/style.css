@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://picsum.photos/id/15/1920/600);
+    background-size: cover;
+    background-position: center;
+}
+
+.login-container{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.5);
+}
+label{
+    color: white;
+}
